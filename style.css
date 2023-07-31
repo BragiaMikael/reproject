@@ -10,3 +10,13 @@ h1{
 img{
     width: 60%;
 }
+.decriçao{
+    font-size: 25px;
+}
+.lidescriçao{
+    list-style-type: circle;
+    font-size: 20px;
+}
+footer{
+    background-color: #000000;
+}
