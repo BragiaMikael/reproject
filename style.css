@@ -1,9 +1,12 @@
 .cabeçalho{
     background: #000000;
     color: #FFFFFF;
-    padding: 30px 0;
+    padding: 40px 0;
 }
-.cabeçalho h1{
-    font-size: 20px;
+h1{
+    font-size: 60px;
     text-align: center;
+}
+.nokia5233{
+    width: 40%;
 }
