@@ -7,19 +7,26 @@ h1{
     font-size: 60px;
     text-align: center;
 }
+legend{
+    font-size: 35px;
+    text-decoration: underline;
+}
 img{
     width: 40%;
 }
 .descriçao{
-    font-size: 30px;
-    text-transform: uppercase;
+    font-size: 22px;
+    text-decoration: overline;
 }
 .descriçao2{
-font-size: 25px;
+font-size: 18px;
 }
 .lidescriçao{
     list-style-type: circle;
     font-size: 20px;
+}
+footer p{
+    text-align: center;
 }
 footer{
     background-color: #000000;
