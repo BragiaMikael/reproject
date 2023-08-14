@@ -20,6 +20,9 @@ img{
     display: inline-block;
     border: #000000 solid 1px;
     border-radius: 10px;
+    position: relative;
+    top: 0;
+    right: 10;
 }
 .descriçao{
     font-size: 22px;
