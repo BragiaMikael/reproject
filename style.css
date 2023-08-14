@@ -16,6 +16,11 @@ img{
     width: 40%;
     display: inline-block;
 }
+.descriçoes{
+    display: inline-block;
+    border: #000000 solid 1px;
+    border-radius: 10px;
+}
 .descriçao{
     font-size: 22px;
 }
