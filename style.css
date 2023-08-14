@@ -10,13 +10,14 @@ h1{
 legend{
     font-size: 35px;
     text-decoration: underline;
+    margin: 25px 0;
 }
 img{
     width: 40%;
+    display: inline-block;
 }
 .descriçao{
     font-size: 22px;
-    text-decoration: overline;
 }
 .descriçao2{
 font-size: 18px;
