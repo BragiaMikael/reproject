@@ -23,7 +23,7 @@ img{
     border: #000000 solid 1px;
     border-radius: 10px;
     position: relative;
-    top: -250px;
+    top: -290px;
     right: 10px;
     padding: 30px;
 }
@@ -36,6 +36,12 @@ font-size: 18px;
 .lidescriçao{
     list-style-type: circle;
     font-size: 20px;
+}
+button{
+    font-size: 40px;
+    padding: 20px;
+    background-color: greenyellow;
+    color: #000000;
 }
 footer p{
     text-align: center;
