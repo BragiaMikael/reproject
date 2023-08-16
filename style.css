@@ -37,11 +37,8 @@ font-size: 18px;
     list-style-type: circle;
     font-size: 20px;
 }
-.botao{
-    font-size: 40px;
-    padding: 10px 20px;
-    background-color:chartreuse;
-    border-radius: 20px;
+button{
+    width: 20%;
 }
 .comprar{
     text-decoration: none;
