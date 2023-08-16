@@ -23,8 +23,9 @@ img{
     border: #000000 solid 1px;
     border-radius: 10px;
     position: relative;
-    top: 50%;
+    top: -250px;
     right: 10;
+    padding: 30px;
 }
 .descriçao{
     font-size: 22px;
