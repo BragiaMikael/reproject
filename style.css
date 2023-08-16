@@ -12,6 +12,7 @@ legend{
     text-decoration: underline;
     padding: 40px 60px;
     text-decoration: none;
+    display: inline-block;
 }
 img{
     width: 40%;
