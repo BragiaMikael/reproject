@@ -41,6 +41,7 @@ font-size: 18px;
     font-size: 40px;
     padding: 10px 20px;
     background-color:chartreuse;
+    border-radius: 20px;
 }
 .comprar{
     text-decoration: none;
